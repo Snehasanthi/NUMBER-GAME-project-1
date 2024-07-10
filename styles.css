@@ -1,0 +1,47 @@
+body{
+    background-color: teal;
+}
+h1{
+    margin-top: 200px;
+    outline-style: dashed;
+   font-size:35px ; 
+   border: 2px solid;
+   border-radius: 100px;
+   height: 60px ;
+   width: 600px;
+   top:800px;
+   font-style: 100px;
+   font-family: 200px;
+   background-color: orchid;
+   
+
+}
+h3{
+   margin-top: 45px; 
+   outline-style: double;
+   font-size: 32px;
+   border: 2px solid ;
+   border-radius:87px ;
+   height: 40px;
+   width: 400px;
+   top:700px ;
+   font-family:100px ;
+   font-style: 100;
+   background-color: purple;
+   outline-style: double;
+   
+   
+
+}
+input{
+    font-size: 30px;
+    border-inline-end: gainsboro;
+    height: 50px;
+    width: 200px;
+    top:40px;
+    background-color: mediumturquoise;
+}
+button{
+    font-size: 22px;
+    background-color: paleturquoise ;
+}
